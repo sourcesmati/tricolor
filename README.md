@@ -1,5 +1,3 @@
 # tricolor
-asd
-
 
 readme loco
